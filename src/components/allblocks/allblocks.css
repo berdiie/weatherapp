@@ -1,0 +1,22 @@
+.blocks{
+    background-color: rgba(254, 254, 253, 0.009);
+    margin-top: 230px;
+    height: 305px;
+    width: 100%;
+    opacity: 0.9;
+
+}
+.block01{
+    background-color: rgba(136, 136, 132, 0.123);
+    height: 305px;
+    width: 270px;
+    opacity: 0.9;
+    display: inline-block;
+    border-right:2px solid black ;
+}
+.day{
+    color: yellow;
+    font-size: 20px;
+}
+
+
